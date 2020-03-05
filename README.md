@@ -1,2 +1,2 @@
 # Javascript-30-days
-Drum Kit Challenge
+My own Solution of Drum Kit Challenge
